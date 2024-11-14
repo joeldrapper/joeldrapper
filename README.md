@@ -1,3 +1,3 @@
-I’m a full-stack Ruby/TypeScript/CSS Engineer at Prevail AI — formerly at **Clearscope** and **Shopify**. I maintain a few open source Ruby gems such as **[Phlex](https://phlex.fun)**, **[Quickdraw](https://github.com/joeldrapper/quickdraw)** and **[Literal](https://literal.fun)**. I’m also building a new DOM morphing library, **[Morphlex](https://github.com/phlex-ruby/morphlex)**.
+I’m a full-stack Ruby/Typescript/CSS Engineer at Prevail — previously at **Clearscope** and **Shopify**. I maintain a few open source Ruby gems such as **[Phlex](https://phlex.fun)** and **[Literal](https://literal.fun)**.
 
-I’m constantly yapping on [Twitter](https://twitter.com/joeldrapper), I write a (very) irregular newsletter, **[Naming Things](https://www.namingthings.org)**, and cohost the **[Rooftop Ruby Podcast](https://www.rooftopruby.com)**.
+I’m constantly yapping on [Bluesky](https://bsky.app/profile/joel.drapper.me), I write a (very) irregular newsletter, **[Naming Things](https://www.namingthings.org)**, and cohost the **[Rooftop Ruby Podcast](https://www.rooftopruby.com)**.
